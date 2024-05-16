@@ -1,6 +1,5 @@
 # Flutter Travel App UI
 
-![Welcome Screen](<img src="https://github.com/favicon.ico" width="150">)
-![Home Screen](https://github.com/moklesur644/Flutter-Travel-Application-UI/blob/main/Screenshort/2.png?raw=true),
-![Details Screen](https://github.com/moklesur644/Flutter-Travel-Application-UI/blob/main/Screenshort/3.png?raw=true),
+<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
+
 
